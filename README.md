@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.potters.dev">Potters</a></h2>
+<p align="center">
+  <a href="https://www.spigotmc.org/members/potters.76854/">Spigot</a> •
+  <a href="https://twitter.com/PottersMC_">Twitter</a>
+</p>
 
-<!--
-**PottersMC/PottersMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻  I’m currently working on Minecraft Projects :wink:.
+- 🌱  I'm currently learning Node.JS and GoLang. 
+- 💬  Enrolled at University of York for Computer Science.
+- 📫  If you want to reach me, contact@potters.dev.
+
+***
+
+ <br>
+
+📈 My GitHub Stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PottersMC&theme=dark&show_icons=true" alt="pottersStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PottersMC&layout=compact&theme=dark" alt="top-langs" />
+</p>
+
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PottersMC/count.svg" />
+</p>
