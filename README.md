@@ -20,10 +20,10 @@
 
 📈 My GitHub Stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PottersMC&theme=dark&show_icons=true" alt="pottersStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=PottersMC&theme=dark&show_icons=true&count_private=true" alt="pottersStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PottersMC&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PottersMC&layout=compact&theme=dark&count_private=true" alt="top-langs" />
 </p>
 
 <br>
