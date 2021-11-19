@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on Minecraft Projects :wink:.
+- 👨🏽‍💻  I’m currently working on various Projects :wink:.
 - 🌱  I'm currently learning Node.JS and GoLang. 
 - 💬  Enrolled at University of York for Computer Science.
 - 📫  If you want to reach me, contact@potters.dev.
