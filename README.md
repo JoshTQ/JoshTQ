@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.potters.dev">Josh</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://www.potters.dev">Josh</a></h2>
 <p align="center">
   <a href="https://twitter.com/PottersMC_">Twitter</a> • 
   <a href="https://www.discordapp.com/users/203237531481931776/">Discord</a>  
