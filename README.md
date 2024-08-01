@@ -1,6 +1,5 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.potters.dev">Potters</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.potters.dev">Josh</a></h2>
 <p align="center">
-  <a href="https://www.spigotmc.org/members/potters.76854/">Spigot</a> •
   <a href="https://twitter.com/PottersMC_">Twitter</a> • 
   <a href="https://www.discordapp.com/users/203237531481931776/">Discord</a>  
 </p>
@@ -9,9 +8,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on various Projects :wink:.
-- 🌱  I'm currently learning Node.JS and GoLang. 
-- 💬  Enrolled at University of York for Computer Science.
+- 👨🏽‍💻  I’m currently working on various Projects.
+- 💬  Studied at University of York for Computer Science, graduating with First Class Honours.
 - 📫  If you want to reach me, contact@potters.dev.
 
 ***
