@@ -6,6 +6,8 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
+I'm a Software Engineer based in the United Kingdom / Ireland. I studied at the University of York, and completed my placement year as a Backend Engineer at Dojo (Go).
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on various Projects.
@@ -13,20 +15,3 @@
 - 📫  If you want to reach me, contact@potters.dev.
 
 ***
-
- <br>
-
-📈 My GitHub Stats <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PottersMC&theme=dark&show_icons=true&count_private=true" alt="pottersStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PottersMC&layout=compact&theme=dark&count_private=true" alt="top-langs" />
-</p>
-
-<br>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PottersMC/count.svg" />
-</p>
