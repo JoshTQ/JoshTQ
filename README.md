@@ -10,7 +10,7 @@ I'm a Software Engineer based in the United Kingdom / Ireland. I studied at the 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on various Projects.
+- 👨🏽‍💻  I’m currently working on various projects, mostly in UGC Games.
 - 💬  Studied at University of York for Computer Science, graduating with First Class Honours.
 - 📫  If you want to reach me, contact@potters.dev.
 
